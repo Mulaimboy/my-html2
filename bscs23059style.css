@@ -1,0 +1,414 @@
+<<<<<<< HEAD
+
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 60px;
+}
+.subtitle-heading{
+  margin-top: -60px;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {
+    background-color: #5dc7da;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.navbar li {
+    display: inline;
+    margin: 0 20px;
+}
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.navbar a:hover {
+    background-color: #fff;
+    color: #333;
+}
+.btn:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.about-product {
+    background-image: url('./BSCS23059-IMG1.png'); 
+    background-size: cover;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.headings-container{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    background-color: rgb(217, 246, 249);
+    margin-top: 20px;
+    padding-top: 0px;
+    box-shadow: 0 4px 8px rgba(0.4, 0.4, 0.4, 0.4); 
+    border: 2px solid black;
+    opacity: 0.9;
+}
+.about-image {
+    height: 400px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 24px;
+    flex-direction: column; 
+}
+.products-image {
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 24px;
+}
+.btn {
+    background-color: #333;
+    border-radius: 10px;
+    color: #000000;
+    padding: 10px 20px;
+    border: 3px solid black;
+    text-decoration: none;
+    margin-top: 10px;
+    background-color: rgb(217, 246, 249);
+}
+footer {
+    background-color:#5dc7da;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.contact-details {
+    font-size: 18px;
+}
+
+.contact-details p {
+    margin: 5px 0;
+}
+.footer-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.footer-logos img {
+    width: 50px; 
+    margin-left: 10px;
+    background-color: transparent;
+    
+}
+.product-page{
+    background-image: url('./BSCS23059-IMG1.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.product-box-container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+.product-box {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 40px;
+    background-color: rgb(217, 246, 249);
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    width: calc(20% - 40px); 
+    margin-bottom: 20px; 
+    display: inline-block;
+}
+.product-box img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.product-box h2 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+.product-box p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+.contactpage-back{
+    background-image: url('./BSCS23059-IMG02.avif'); 
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.contact-box {
+    background-color: #f0f0f0;
+    border: 1px solid #000000;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+.contact-boxcontainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+    border-width: 100px;
+}
+.contact-box h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+.contact-box p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+.social-media {
+    margin-top: 20px;
+}
+.social-media a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+.social-media img {
+    width: 80px;
+    height: 50px;
+=======
+
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 60px;
+}
+.subtitle-heading{
+  margin-top: -60px;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {
+    background-color: #5dc7da;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.navbar li {
+    display: inline;
+    margin: 0 20px;
+}
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.navbar a:hover {
+    background-color: #fff;
+    color: #333;
+}
+.btn:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.about-product {
+    background-image: url('./BSCS23059-IMG1.png'); 
+    background-size: cover;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.headings-container{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    background-color: rgb(217, 246, 249);
+    margin-top: 20px;
+    padding-top: 0px;
+    box-shadow: 0 4px 8px rgba(0.4, 0.4, 0.4, 0.4); 
+    border: 2px solid black;
+    opacity: 0.9;
+}
+.about-image {
+    height: 400px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 24px;
+    flex-direction: column; 
+}
+.products-image {
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 24px;
+}
+.btn {
+    background-color: #333;
+    border-radius: 10px;
+    color: #000000;
+    padding: 10px 20px;
+    border: 3px solid black;
+    text-decoration: none;
+    margin-top: 10px;
+    background-color: rgb(217, 246, 249);
+}
+footer {
+    background-color:#5dc7da;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.contact-details {
+    font-size: 18px;
+}
+
+.contact-details p {
+    margin: 5px 0;
+}
+.footer-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.footer-logos img {
+    width: 50px; 
+    margin-left: 10px;
+    background-color: transparent;
+    
+}
+.product-page{
+    background-image: url('./BSCS23059-IMG1.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.product-box-container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+.product-box {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 40px;
+    background-color: rgb(217, 246, 249);
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    width: calc(20% - 40px); 
+    margin-bottom: 20px; 
+    display: inline-block;
+}
+.product-box img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.product-box h2 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+.product-box p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+.contactpage-back{
+    background-image: url('./BSCS23059-IMG02.avif'); 
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.contact-box {
+    background-color: #f0f0f0;
+    border: 1px solid #000000;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+.contact-boxcontainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+    border-width: 100px;
+}
+.contact-box h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+.contact-box p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+.social-media {
+    margin-top: 20px;
+}
+.social-media a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+.social-media img {
+    width: 80px;
+    height: 50px;
+>>>>>>> de32ae3ab29372981e37999d707745a4f06660af
+}
