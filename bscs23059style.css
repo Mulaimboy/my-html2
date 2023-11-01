@@ -7,7 +7,7 @@ h1{
 .subtitle-heading{
   margin-top: -60px;
     text-align: center;
-    color: black;
+    color: Pink;
     font-size: 40px;
 }
 body {
@@ -98,7 +98,7 @@ header {
     background-color: rgb(217, 246, 249);
 }
 footer {
-    background-color:#5dc7da;
+    background-color:#03333b;
     color: #fff;
     padding: 20px 0;
     text-align: center;
